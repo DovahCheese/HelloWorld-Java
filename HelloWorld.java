@@ -1,5 +1,3 @@
-import javafx.scene.shape.Line;
-
 public class HelloWorld {
     private static String goodbye = "Goodbye World";
 
